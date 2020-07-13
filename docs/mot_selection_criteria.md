@@ -30,9 +30,9 @@ be selected for the MOT from non frontal view in crowded scenes investigation.
 This is a list of priority criteria that will be used to test the MOT approach due to
 we have a limit amount of time and effort:
 
-* ** Approaches with best performance in state-of-the art**
-* ** Approaches tested in persons and crowded sceces**
-* ** Expert criteria based on non-frontal view, human-body perspective, etc**
+* **Approaches with best performance in state-of-the art**
+* **Approaches tested in persons and crowded sceces**
+* **Expert criteria based on non-frontal view, human-body perspective, etc**
 
 
 
